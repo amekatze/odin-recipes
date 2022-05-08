@@ -1,0 +1,26 @@
+body {
+    font-family: Tahoma, Verdana, sans-serif;
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-right:15%;
+}
+
+.instructions {
+    background-color: #f0f0f0;
+    margin-bottom: 3vw;
+    padding: 0 0 1vw 0;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    border: 10px solid #f0f0f0;
+}
+
+h1 {
+    border-bottom: 1px solid;
+}
+
+.instructions h2 {
+    background-color: #d0d0d0;
+}
